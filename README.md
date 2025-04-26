@@ -1,1 +1,1 @@
-# EDMR-movies-recommendation
+# EDMR-Emotion-driven-movies-recommendation
